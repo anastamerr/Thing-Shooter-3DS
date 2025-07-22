@@ -1,0 +1,7 @@
+﻿  OpenGLMeshLoader.cpp
+F:\Dev\ThingShooter\TextureBuilder.h(27,52): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+F:\Dev\ThingShooter\TextureBuilder.h(28,52): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+F:\Dev\ThingShooter\OpenGLMeshLoader.cpp(1132,27): warning C4018: '<': signed/unsigned mismatch
+F:\Dev\ThingShooter\OpenGLMeshLoader.cpp(1161,27): warning C4018: '<': signed/unsigned mismatch
+GLTexture.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  OpenGLMeshLoader.vcxproj -> F:\Dev\ThingShooter\Debug\OpenGLMeshLoader19.exe
