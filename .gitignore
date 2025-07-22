@@ -1,0 +1,14 @@
+# Visual Studio
+.vs/
+Debug/
+ipch/
+*.sdf
+*.suo
+*.user
+UpgradeLog.htm
+
+# macOS
+.DS_Store
+
+# Temporary files
+commit_message.txt
